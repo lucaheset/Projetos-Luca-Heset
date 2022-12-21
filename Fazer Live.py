@@ -1,3 +1,7 @@
+
+#Segue Projeto que fiz na época que eu fazia lives
+
+
 from tkinter import *
 import pyautogui
 import os
